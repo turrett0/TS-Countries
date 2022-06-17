@@ -39,8 +39,4 @@ export const CustomSelect = styled(Select).attrs({
   & input {
     padding-left: 0.25rem;
   }
-
-  /* & div[id] {
-    background-color: var(--color-ui-base);
-  } */
 `;
