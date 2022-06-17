@@ -1,5 +1,3 @@
-https://turrett0.github.io/TS-Countries/
-
 # TS-COUNTRIES APP
   Explore World Countries with Countries App.
   
